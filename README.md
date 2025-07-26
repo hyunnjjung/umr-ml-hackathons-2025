@@ -31,7 +31,7 @@ The official EuroSAT dataset is publicly available on [GitHub](https://github.co
 
 ---
 
-## Notes 📝
+### Notes 📝
 
 - Both hackathons were private competitions held as part of the university course, hence datasets and competition links are not shared here  
 - Notebooks are self-contained and can be run independently
