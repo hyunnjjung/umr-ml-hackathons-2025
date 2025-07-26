@@ -10,7 +10,7 @@ This repository contains my solutions for two machine learning hackathons from t
 Predict the daily number of bicycles observed at a counting station in Germany. Input features include date information, holiday periods, and weather data 
 
 **Dataset:**  
-Dataset is from a private university course hackathon and is not publicly available
+Dataset is from a marburg university course hackathon and is not publicly available
 
 **Notebook:**  
 `bicycle_count_prediction.ipynb`
